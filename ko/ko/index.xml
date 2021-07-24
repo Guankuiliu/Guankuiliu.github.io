@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Hugo Zzo Theme</title>
+    <link>http://example.org/ko/ko/</link>
+    <description>Recent content on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>endrhythm@gmail.com (Guankui)</managingEditor>
+    <webMaster>endrhythm@gmail.com (Guankui)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 24 Jul 2021 11:44:14 +0900</lastBuildDate>
+    
+        <atom:link href="http://example.org/ko/ko/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>About</title>
+        <link>http://example.org/ko/ko/about/</link>
+        <pubDate>Sat, 24 Jul 2021 11:44:14 +0900</pubDate>
+        <author>endrhythm@gmail.com (Guankui)</author>
+        <atom:modified>Sat, 24 Jul 2021 11:44:14 +0900</atom:modified>
+        <guid>http://example.org/ko/ko/about/</guid>
+        <description>你好呀！</description>
+        
+        <dc:creator>Guankui</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Archive</title>
+        <link>http://example.org/ko/ko/archive/</link>
+        <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
+        <author>endrhythm@gmail.com (Guankui)</author>
+        <atom:modified>Sat, 19 Oct 2019 11:44:14 +0900</atom:modified>
+        <guid>http://example.org/ko/ko/archive/</guid>
+        <description>archive page</description>
+        
+        <dc:creator>Guankui</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Photo</title>
+        <link>http://example.org/ko/ko/gallery/photo/</link>
+        <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
+        <author>endrhythm@gmail.com (Guankui)</author>
+        <atom:modified>Fri, 12 Oct 2018 10:20:16 +0900</atom:modified>
+        <guid>http://example.org/ko/ko/gallery/photo/</guid>
+        <description></description>
+        
+        <dc:creator>Guankui</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Cartoon</title>
+        <link>http://example.org/ko/ko/gallery/cartoon/</link>
+        <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
+        <author>endrhythm@gmail.com (Guankui)</author>
+        <atom:modified>Thu, 11 Oct 2018 10:20:16 +0900</atom:modified>
+        <guid>http://example.org/ko/ko/gallery/cartoon/</guid>
+        <description></description>
+        
+        <dc:creator>Guankui</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Posts</title>
+        <link>http://example.org/ko/ko/posts/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>endrhythm@gmail.com (Guankui)</author>
+        
+        <guid>http://example.org/ko/ko/posts/</guid>
+        <description></description>
+        
+        <dc:creator>Hugo Authors</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
