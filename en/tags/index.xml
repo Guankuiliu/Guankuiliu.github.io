@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Boylad</title>
-    <link>http://example.org/en/tags/</link>
+    <link>https://guankuiliu.github.io/en/tags/</link>
     <description>Recent content in Tags on Boylad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2021, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://guankuiliu.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>css</title>
-        <link>http://example.org/en/tags/css/</link>
+        <link>https://guankuiliu.github.io/en/tags/css/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythm@gmail.com (Guankui)</author>
         
-        <guid>http://example.org/en/tags/css/</guid>
+        <guid>https://guankuiliu.github.io/en/tags/css/</guid>
         <description></description>
         
         <dc:creator>Guankui</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>html</title>
-        <link>http://example.org/en/tags/html/</link>
+        <link>https://guankuiliu.github.io/en/tags/html/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythm@gmail.com (Guankui)</author>
         
-        <guid>http://example.org/en/tags/html/</guid>
+        <guid>https://guankuiliu.github.io/en/tags/html/</guid>
         <description></description>
         
         <dc:creator>Guankui</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>markdown</title>
-        <link>http://example.org/en/tags/markdown/</link>
+        <link>https://guankuiliu.github.io/en/tags/markdown/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythm@gmail.com (Guankui)</author>
         
-        <guid>http://example.org/en/tags/markdown/</guid>
+        <guid>https://guankuiliu.github.io/en/tags/markdown/</guid>
         <description></description>
         
         <dc:creator>Guankui</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>themes</title>
-        <link>http://example.org/en/tags/themes/</link>
+        <link>https://guankuiliu.github.io/en/tags/themes/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythm@gmail.com (Guankui)</author>
         
-        <guid>http://example.org/en/tags/themes/</guid>
+        <guid>https://guankuiliu.github.io/en/tags/themes/</guid>
         <description></description>
         
         <dc:creator>Guankui</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>amoji</title>
-        <link>http://example.org/en/tags/amoji/</link>
+        <link>https://guankuiliu.github.io/en/tags/amoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythm@gmail.com (Guankui)</author>
         
-        <guid>http://example.org/en/tags/amoji/</guid>
+        <guid>https://guankuiliu.github.io/en/tags/amoji/</guid>
         <description></description>
         
         <dc:creator>Guankui</dc:creator>
@@ -112,11 +112,11 @@
       
       <item>
         <title>bamoji</title>
-        <link>http://example.org/en/tags/bamoji/</link>
+        <link>https://guankuiliu.github.io/en/tags/bamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythm@gmail.com (Guankui)</author>
         
-        <guid>http://example.org/en/tags/bamoji/</guid>
+        <guid>https://guankuiliu.github.io/en/tags/bamoji/</guid>
         <description></description>
         
         <dc:creator>Guankui</dc:creator>
@@ -130,11 +130,11 @@
       
       <item>
         <title>emoji</title>
-        <link>http://example.org/en/tags/emoji/</link>
+        <link>https://guankuiliu.github.io/en/tags/emoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythm@gmail.com (Guankui)</author>
         
-        <guid>http://example.org/en/tags/emoji/</guid>
+        <guid>https://guankuiliu.github.io/en/tags/emoji/</guid>
         <description></description>
         
         <dc:creator>Guankui</dc:creator>
@@ -148,11 +148,11 @@
       
       <item>
         <title>gamoji</title>
-        <link>http://example.org/en/tags/gamoji/</link>
+        <link>https://guankuiliu.github.io/en/tags/gamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythm@gmail.com (Guankui)</author>
         
-        <guid>http://example.org/en/tags/gamoji/</guid>
+        <guid>https://guankuiliu.github.io/en/tags/gamoji/</guid>
         <description></description>
         
         <dc:creator>Guankui</dc:creator>
@@ -166,11 +166,11 @@
       
       <item>
         <title>namoji</title>
-        <link>http://example.org/en/tags/namoji/</link>
+        <link>https://guankuiliu.github.io/en/tags/namoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythm@gmail.com (Guankui)</author>
         
-        <guid>http://example.org/en/tags/namoji/</guid>
+        <guid>https://guankuiliu.github.io/en/tags/namoji/</guid>
         <description></description>
         
         <dc:creator>Guankui</dc:creator>
@@ -184,11 +184,11 @@
       
       <item>
         <title>index</title>
-        <link>http://example.org/en/tags/index/</link>
+        <link>https://guankuiliu.github.io/en/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>endrhythm@gmail.com (Guankui)</author>
         
-        <guid>http://example.org/en/tags/index/</guid>
+        <guid>https://guankuiliu.github.io/en/tags/index/</guid>
         <description></description>
         
         <dc:creator>Guankui</dc:creator>
