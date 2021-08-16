@@ -14,11 +14,41 @@
     <managingEditor>endrhythm@gmail.com (Guankui)</managingEditor>
     <webMaster>endrhythm@gmail.com (Guankui)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://guankuiliu.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Procedurally Generated Fish Drawings</title>
+        <link>https://guankuiliu.github.io/en/posts/2021/2021-08-16-procedurally-generated-fish-drawings/</link>
+        <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+        <author>endrhythm@gmail.com (Guankui)</author>
+        <atom:modified>Mon, 16 Aug 2021 00:00:00 +0000</atom:modified>
+        <guid>https://guankuiliu.github.io/en/posts/2021/2021-08-16-procedurally-generated-fish-drawings/</guid>
+        <description>这是Lingdong Huang大神的一个项目，可以随机生成几种鱼的图像，详细的信息参见：fishdraw。安装Node.js后，简单的示例如</description>
+        
+        <dc:creator>Boylad</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Fish4Fun</category>
+            
+          
+        
+        
+          
+            
+              <category>Github</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Markdown Syntax Guide</title>

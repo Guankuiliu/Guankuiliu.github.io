@@ -9,7 +9,7 @@
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://guankuiliu.github.io/en/</loc>
-    <lastmod>2021-07-24T11:44:14+09:00</lastmod>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -19,6 +19,44 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://guankuiliu.github.io/en/"
+                />
+  </url><url>
+    <loc>https://guankuiliu.github.io/en/categories/</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://guankuiliu.github.io/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://guankuiliu.github.io/en/tags/fish4fun/</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://guankuiliu.github.io/en/categories/github/</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://guankuiliu.github.io/en/posts/</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://guankuiliu.github.io/en/posts/2021/2021-08-16-procedurally-generated-fish-drawings/</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://guankuiliu.github.io/en/tags/</loc>
+    <lastmod>2021-08-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://guankuiliu.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/en/tags/"
                 />
   </url><url>
     <loc>https://guankuiliu.github.io/en/archive/</loc>
@@ -45,19 +83,6 @@
     <loc>https://guankuiliu.github.io/en/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url><url>
-    <loc>https://guankuiliu.github.io/en/categories/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://guankuiliu.github.io/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://guankuiliu.github.io/en/categories/"
-                />
-  </url><url>
     <loc>https://guankuiliu.github.io/en/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
@@ -68,9 +93,6 @@
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
     <loc>https://guankuiliu.github.io/en/posts/markdown-syntax/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://guankuiliu.github.io/en/posts/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
     <loc>https://guankuiliu.github.io/en/series/</loc>
@@ -88,19 +110,6 @@
   </url><url>
     <loc>https://guankuiliu.github.io/en/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://guankuiliu.github.io/en/tags/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://guankuiliu.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://guankuiliu.github.io/en/tags/"
-                />
   </url><url>
     <loc>https://guankuiliu.github.io/en/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
