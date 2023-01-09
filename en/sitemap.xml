@@ -2,6 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://guankuiliu.github.io/en/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/en/"
+                />
+  </url><url>
+    <loc>https://guankuiliu.github.io/en/categories/book/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://guankuiliu.github.io/en/categories/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://guankuiliu.github.io/en/tags/julia/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://guankuiliu.github.io/en/posts/2023/2023-01-19-julia-graphics/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://guankuiliu.github.io/en/posts/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/en/posts/"
+                />
+  </url><url>
+    <loc>https://guankuiliu.github.io/en/tags/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/en/tags/"
+                />
+  </url><url>
     <loc>https://guankuiliu.github.io/en/about/</loc>
     <lastmod>2021-07-24T11:44:14+09:00</lastmod>
     <xhtml:link
@@ -13,19 +74,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://guankuiliu.github.io/en/about/"
-                />
-  </url><url>
-    <loc>https://guankuiliu.github.io/en/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://guankuiliu.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://guankuiliu.github.io/en/"
                 />
   </url><url>
     <loc>https://guankuiliu.github.io/en/archive/</loc>
@@ -80,18 +128,6 @@
                 href="https://guankuiliu.github.io/en/gallery/cartoon/"
                 />
   </url><url>
-    <loc>https://guankuiliu.github.io/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://guankuiliu.github.io/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://guankuiliu.github.io/en/categories/"
-                />
-  </url><url>
     <loc>https://guankuiliu.github.io/en/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
@@ -104,18 +140,6 @@
                 href="https://guankuiliu.github.io/en/tags/index/"
                 />
   </url><url>
-    <loc>https://guankuiliu.github.io/en/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://guankuiliu.github.io/zh/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://guankuiliu.github.io/en/posts/"
-                />
-  </url><url>
     <loc>https://guankuiliu.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -126,18 +150,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://guankuiliu.github.io/en/series/"
-                />
-  </url><url>
-    <loc>https://guankuiliu.github.io/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://guankuiliu.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://guankuiliu.github.io/en/tags/"
                 />
   </url>
 </urlset>
