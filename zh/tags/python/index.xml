@@ -14,11 +14,41 @@
     <managingEditor>endrhythm@gmail.com (Guankui)</managingEditor>
     <webMaster>endrhythm@gmail.com (Guankui)</webMaster>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://guankuiliu.github.io/zh/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Python处理PDF文件</title>
+        <link>https://guankuiliu.github.io/zh/posts/2023/2023-07-11-pypdf2/</link>
+        <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+        <author>endrhythm@gmail.com (Guankui)</author>
+        <atom:modified>Tue, 11 Jul 2023 00:00:00 +0000</atom:modified>
+        <guid>https://guankuiliu.github.io/zh/posts/2023/2023-07-11-pypdf2/</guid>
+        <description>将单个PDF文件分页保存 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 import PyPDF2 pdf_file = open(&amp;#39;./file.pdf&amp;#39;, &amp;#39;rb&amp;#39;) pdf_reader = PyPDF2.PdfReader(pdf_file) for page_num in range(len(pdf_reader.pages)): page = pdf_reader.pages[page_num] pdf_writer = PyPDF2.PdfWriter() pdf_writer.add_page(page) output_file_name = f&amp;#39;page_{page_num+1}.pdf&amp;#39; output_file = open(output_file_name, &amp;#39;wb&amp;#39;) pdf_writer.write(output_file) output_file.close() pdf_file.close() 提取PDF中关键字所在</description>
+        
+        <dc:creator>Guankui</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+          
+            
+              <category>visualization</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>2023年中国海伏季休渔时间</title>
