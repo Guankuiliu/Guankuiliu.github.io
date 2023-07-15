@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Fishery on Polymax</title>
+    <link>https://guankuiliu.github.io/zh/categories/fishery/</link>
+    <description>Recent content in Fishery on Polymax</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>endrhythm@gmail.com (Guankui)</managingEditor>
+    <webMaster>endrhythm@gmail.com (Guankui)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://guankuiliu.github.io/zh/categories/fishery/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>拖网选择性曲线</title>
+        <link>https://guankuiliu.github.io/zh/posts/2023/2023-07-15-trawl-selectiviry/</link>
+        <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+        <author>endrhythm@gmail.com (Guankui)</author>
+        <atom:modified>Sat, 15 Jul 2023 00:00:00 +0000</atom:modified>
+        <guid>https://guankuiliu.github.io/zh/posts/2023/2023-07-15-trawl-selectiviry/</guid>
+        <description>拖网S型曲线 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 import numpy as np from scipy import stats import matplotlib.pyplot as plt fig = plt.figure() ax = fig.add_subplot(111) x = np.linspace(0, 650, 1000) xbar =</description>
+        
+        <dc:creator>Guankui</dc:creator>
+        <media:content url="https://guankuiliu.github.ioimages/thubnail/20230715_trawl_S_curve.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+          
+            
+              <category>visualization</category>
+            
+          
+            
+              <category>Fishery</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
