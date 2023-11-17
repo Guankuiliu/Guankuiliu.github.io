@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>PPT on Hugo Zzo Theme</title>
+    <link>https://guankuiliu.github.io/tags/ppt/</link>
+    <description>Recent content in PPT on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>endrhythm@gmail.com (Guankui)</managingEditor>
+    <webMaster>endrhythm@gmail.com (Guankui)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://guankuiliu.github.io/tags/ppt/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Widespread shifts in body size within populations and assemblages</title>
+        <link>https://guankuiliu.github.io/presentation/p20230921_widespread-shifts-in-body-size-within-populations-and-assemblages/</link>
+        <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+        <author>endrhythm@gmail.com (Guankui)</author>
+        <atom:modified>Thu, 21 Sep 2023 00:00:00 +0000</atom:modified>
+        <guid>https://guankuiliu.github.io/presentation/p20230921_widespread-shifts-in-body-size-within-populations-and-assemblages/</guid>
+        <description></description>
+        
+        <dc:creator>Guankui</dc:creator>
+        <media:content url="https://guankuiliu.github.ioimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>PPT</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>Seminar</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

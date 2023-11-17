@@ -20,12 +20,12 @@
 
       
       <item>
-        <title>Posts</title>
-        <link>https://guankuiliu.github.io/en/posts/</link>
+        <title>Article</title>
+        <link>https://guankuiliu.github.io/en/articles/</link>
         <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
         <author>endrhythm@gmail.com (Guankui)</author>
         
-        <guid>https://guankuiliu.github.io/en/posts/</guid>
+        <guid>https://guankuiliu.github.io/en/articles/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

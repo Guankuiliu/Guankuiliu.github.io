@@ -4,16 +4,36 @@
   <url>
     <loc>https://guankuiliu.github.io/zh/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/showcase/hugo/hugo-theme-zzo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/showcase/hugo/hugo-theme-zzo/"
+                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/showcase/hugo/hugo-theme-zdoc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/showcase/hugo/hugo-theme-zdoc/"
+                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guankuiliu.github.io/en/"
+                href="https://guankuiliu.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -26,7 +46,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guankuiliu.github.io/en/categories/"
+                href="https://guankuiliu.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -39,16 +59,6 @@
   </url><url>
     <loc>https://guankuiliu.github.io/zh/posts/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://guankuiliu.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://guankuiliu.github.io/zh/posts/"
-                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/tags/python/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
@@ -58,7 +68,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guankuiliu.github.io/en/tags/"
+                href="https://guankuiliu.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -95,7 +105,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guankuiliu.github.io/en/archive/"
+                href="https://guankuiliu.github.io/archive/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -108,7 +118,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guankuiliu.github.io/en/about/"
+                href="https://guankuiliu.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -118,21 +128,81 @@
   </url><url>
     <loc>https://guankuiliu.github.io/zh/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/publication/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/publication/article/"
+                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/publication/book/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/publication/book/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/publication/book/"
+                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/publication/misc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/publication/misc/"
+                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/publication/"
+                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/showcase/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/showcase/hugo/"
+                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/showcase/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/showcase/"
+                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
@@ -151,7 +221,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guankuiliu.github.io/en/series/"
+                href="https://guankuiliu.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -197,7 +267,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guankuiliu.github.io/en/gallery/cartoon/"
+                href="https://guankuiliu.github.io/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -210,7 +280,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guankuiliu.github.io/en/gallery/"
+                href="https://guankuiliu.github.io/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -223,7 +293,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guankuiliu.github.io/en/gallery/photo/"
+                href="https://guankuiliu.github.io/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -233,15 +303,55 @@
   </url><url>
     <loc>https://guankuiliu.github.io/zh/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/presentation/dir/fourth/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/presentation/dir/fourth/"
+                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/presentation/"
+                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/presentation/third/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/presentation/third/"
+                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/presentation/second/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/presentation/second/"
+                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
@@ -262,7 +372,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://guankuiliu.github.io/en/tags/index/"
+                href="https://guankuiliu.github.io/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
