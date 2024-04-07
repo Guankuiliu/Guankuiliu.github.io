@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>BookNotes on Hugo Zzo Theme</title>
+    <link>https://guankuiliu.github.io/series/booknotes/</link>
+    <description>Recent content in BookNotes on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>endrhythm@gmail.com (Guankui)</managingEditor>
+    <webMaster>endrhythm@gmail.com (Guankui)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 24 Sep 2021 18:03:26 +0800</lastBuildDate>
+    
+        <atom:link href="https://guankuiliu.github.io/series/booknotes/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>《机器学习与R语言》笔记</title>
+        <link>https://guankuiliu.github.io/posts/2021/2021-09-24-machine-learning-with-r-note/</link>
+        <pubDate>Fri, 24 Sep 2021 18:03:26 +0800</pubDate>
+        <author>endrhythm@gmail.com (Guankui)</author>
+        <atom:modified>Fri, 24 Sep 2021 18:03:26 +0800</atom:modified>
+        <guid>https://guankuiliu.github.io/posts/2021/2021-09-24-machine-learning-with-r-note/</guid>
+        <description>KNN乳腺癌诊断 过拟合：试图用模型拟合噪声。 1 2 3 4 # 保存和加载R数据结构 save(x, y ,z, file = &amp;#39;mydata.RData&amp;#39;) load(&amp;#39;mydata.RData&amp;#39;) save.image() %in%操作符：根据左边的值是否在右边的向量中，为</description>
+        
+        <dc:creator>PolyFish</dc:creator>
+        <media:content url="https://guankuiliu.github.ioimages/BookCover/ML_with_R.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>R</category>
+            
+          
+        
+        
+          
+            
+              <category>ML</category>
+            
+          
+        
+        
+          
+            
+              <category>BookNotes</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

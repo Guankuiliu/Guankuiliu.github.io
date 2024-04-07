@@ -76,7 +76,7 @@
                 href="https://guankuiliu.github.io/zh/tags/"
                 />
   </url><url>
-    <loc>https://guankuiliu.github.io/zh/categories/visualization/</loc>
+    <loc>https://guankuiliu.github.io/zh/categories/vis/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://guankuiliu.github.io/zh/posts/2023/2023-07-15-trawl-selectiviry/</loc>
@@ -90,6 +90,34 @@
   </url><url>
     <loc>https://guankuiliu.github.io/zh/tags/fishery/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://guankuiliu.github.io/zh/series/booknotes/</loc>
+    <lastmod>2022-10-10T18:03:26+08:00</lastmod>
+  </url><url>
+    <loc>https://guankuiliu.github.io/zh/series/</loc>
+    <lastmod>2022-10-10T18:03:26+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/series/"
+                />
+  </url><url>
+    <loc>https://guankuiliu.github.io/zh/posts/2022/2022-10-10-matplotlib/</loc>
+    <lastmod>2022-10-10T18:03:26+08:00</lastmod>
+  </url><url>
+    <loc>https://guankuiliu.github.io/zh/categories/ml/</loc>
+    <lastmod>2021-09-24T18:03:26+08:00</lastmod>
+  </url><url>
+    <loc>https://guankuiliu.github.io/zh/tags/r/</loc>
+    <lastmod>2021-09-24T18:03:26+08:00</lastmod>
+  </url><url>
+    <loc>https://guankuiliu.github.io/zh/posts/2021/2021-09-24-machine-learning-with-r-note/</loc>
+    <lastmod>2021-09-24T18:03:26+08:00</lastmod>
   </url><url>
     <loc>https://guankuiliu.github.io/zh/tags/fish4fun/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
@@ -215,19 +243,6 @@
   </url><url>
     <loc>https://guankuiliu.github.io/zh/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>https://guankuiliu.github.io/zh/series/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://guankuiliu.github.io/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://guankuiliu.github.io/zh/series/"
-                />
   </url><url>
     <loc>https://guankuiliu.github.io/zh/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>

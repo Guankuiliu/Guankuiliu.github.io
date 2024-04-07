@@ -13,7 +13,7 @@
     <language>zh</language>
     <managingEditor>endrhythm@gmail.com (Guankui)</managingEditor>
     <webMaster>endrhythm@gmail.com (Guankui)</webMaster>
-    <copyright>©2023, All Rights Reserved</copyright>
+    <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://guankuiliu.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -39,12 +39,30 @@
       </item>
       
       <item>
-        <title>visualization</title>
-        <link>https://guankuiliu.github.io/zh/categories/visualization/</link>
+        <title>Vis</title>
+        <link>https://guankuiliu.github.io/zh/categories/vis/</link>
         <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
         <author>endrhythm@gmail.com (Guankui)</author>
         
-        <guid>https://guankuiliu.github.io/zh/categories/visualization/</guid>
+        <guid>https://guankuiliu.github.io/zh/categories/vis/</guid>
+        <description></description>
+        
+        <dc:creator>Guankui</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>ML</title>
+        <link>https://guankuiliu.github.io/zh/categories/ml/</link>
+        <pubDate>Fri, 24 Sep 2021 18:03:26 +0800</pubDate>
+        <author>endrhythm@gmail.com (Guankui)</author>
+        
+        <guid>https://guankuiliu.github.io/zh/categories/ml/</guid>
         <description></description>
         
         <dc:creator>Guankui</dc:creator>
