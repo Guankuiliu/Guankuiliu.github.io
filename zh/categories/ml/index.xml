@@ -11,8 +11,8 @@
     <description>Recent content in ML on Polymax</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>endrhythm@gmail.com (Guankui)</managingEditor>
-    <webMaster>endrhythm@gmail.com (Guankui)</webMaster>
+    <managingEditor>endrhythmATgmail.com (Guankui Liu)</managingEditor>
+    <webMaster>endrhythmATgmail.com (Guankui Liu)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 24 Sep 2021 18:03:26 +0800</lastBuildDate>
     
@@ -24,7 +24,7 @@
         <title>《机器学习与R语言》笔记</title>
         <link>https://guankuiliu.github.io/zh/posts/2021/2021-09-24-machine-learning-with-r-note/</link>
         <pubDate>Fri, 24 Sep 2021 18:03:26 +0800</pubDate>
-        <author>endrhythm@gmail.com (Guankui)</author>
+        <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Fri, 24 Sep 2021 18:03:26 +0800</atom:modified>
         <guid>https://guankuiliu.github.io/zh/posts/2021/2021-09-24-machine-learning-with-r-note/</guid>
         <description>KNN乳腺癌诊断 过拟合：试图用模型拟合噪声。 1 2 3 4 # 保存和加载R数据结构 save(x, y ,z, file = &amp;#39;mydata.RData&amp;#39;) load(&amp;#39;mydata.RData&amp;#39;) save.image() %in%操作符：根据左边的值是否在右边的向量中，为</description>

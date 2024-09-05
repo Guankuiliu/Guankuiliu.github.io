@@ -11,8 +11,8 @@
     <description>Recent content in namoji on Polymax</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>endrhythm@gmail.com (Guankui)</managingEditor>
-    <webMaster>endrhythm@gmail.com (Guankui)</webMaster>
+    <managingEditor>endrhythmATgmail.com (Guankui Liu)</managingEditor>
+    <webMaster>endrhythmATgmail.com (Guankui Liu)</webMaster>
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
@@ -24,7 +24,7 @@
         <title>Emoji Support</title>
         <link>https://guankuiliu.github.io/zh/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>endrhythm@gmail.com (Guankui)</author>
+        <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>https://guankuiliu.github.io/zh/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
