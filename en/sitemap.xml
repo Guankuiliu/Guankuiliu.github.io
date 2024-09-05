@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://guankuiliu.github.io/</loc>
-    <lastmod>2023-11-18T14:08:48+00:00</lastmod>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -40,6 +40,22 @@
                 hreflang="en"
                 href="https://guankuiliu.github.io/"
                 />
+  </url><url>
+    <loc>https://guankuiliu.github.io/publication/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://guankuiliu.github.io/zh/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://guankuiliu.github.io/publication/"
+                />
+  </url><url>
+    <loc>https://guankuiliu.github.io/publication/article/2024_the-feeding-strategies-of-the-antarctic-lanternfish-electrona-antarctica-pisces-myctophidae-in-the-amundsen-and-cosmonaut-seas-southern-ocean-assessed/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://guankuiliu.github.io/publication/article/</loc>
     <lastmod>2023-11-18T14:08:48+00:00</lastmod>
@@ -52,19 +68,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://guankuiliu.github.io/publication/article/"
-                />
-  </url><url>
-    <loc>https://guankuiliu.github.io/publication/</loc>
-    <lastmod>2023-11-18T14:08:48+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://guankuiliu.github.io/zh/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://guankuiliu.github.io/publication/"
                 />
   </url><url>
     <loc>https://guankuiliu.github.io/about/</loc>
@@ -128,7 +131,7 @@
     <loc>https://guankuiliu.github.io/presentation/p20230921_widespread-shifts-in-body-size-within-populations-and-assemblages/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://guankuiliu.github.io/publication/article/2022_exploring-balanced-harvest-as-a-potential-strategy-for-highly-exploited-multispecies-fisheries/</loc>
+    <loc>https://guankuiliu.github.io/publication/article/2023_exploring-balanced-harvest-as-a-potential-strategy-for-highly-exploited-multispecies-fisheries/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://guankuiliu.github.io/blogs/</loc>
