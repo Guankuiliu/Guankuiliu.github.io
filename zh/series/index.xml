@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on </title>
-    <link>https://guankuiliu.github.io/zh/series/</link>
+    <link>https://www.metasphinx.com/zh/series/</link>
     <description>Recent content in Series on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 10 Oct 2022 18:03:26 +0800</lastBuildDate>
     
-        <atom:link href="https://guankuiliu.github.io/zh/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.metasphinx.com/zh/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>BookNotes</title>
-        <link>https://guankuiliu.github.io/zh/series/booknotes/</link>
+        <link>https://www.metasphinx.com/zh/series/booknotes/</link>
         <pubDate>Mon, 10 Oct 2022 18:03:26 +0800</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/series/booknotes/</guid>
+        <guid>https://www.metasphinx.com/zh/series/booknotes/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Themes Guide</title>
-        <link>https://guankuiliu.github.io/zh/series/themes-guide/</link>
+        <link>https://www.metasphinx.com/zh/series/themes-guide/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/series/themes-guide/</guid>
+        <guid>https://www.metasphinx.com/zh/series/themes-guide/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>

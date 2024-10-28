@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>ML on </title>
-    <link>https://guankuiliu.github.io/zh/categories/ml/</link>
+    <link>https://www.metasphinx.com/zh/categories/ml/</link>
     <description>Recent content in ML on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 24 Sep 2021 18:03:26 +0800</lastBuildDate>
     
-        <atom:link href="https://guankuiliu.github.io/zh/categories/ml/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.metasphinx.com/zh/categories/ml/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>《机器学习与R语言》笔记</title>
-        <link>https://guankuiliu.github.io/zh/posts/2021/2021-09-24-machine-learning-with-r-note/</link>
+        <link>https://www.metasphinx.com/zh/posts/2021/2021-09-24-machine-learning-with-r-note/</link>
         <pubDate>Fri, 24 Sep 2021 18:03:26 +0800</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Fri, 24 Sep 2021 18:03:26 +0800</atom:modified>
-        <guid>https://guankuiliu.github.io/zh/posts/2021/2021-09-24-machine-learning-with-r-note/</guid>
+        <guid>https://www.metasphinx.com/zh/posts/2021/2021-09-24-machine-learning-with-r-note/</guid>
         <description>KNN乳腺癌诊断 过拟合：试图用模型拟合噪声。 1 2 3 4 # 保存和加载R数据结构 save(x, y ,z, file = &amp;#39;mydata.RData&amp;#39;) load(&amp;#39;mydata.RData&amp;#39;) save.image() %in%操作符：根据左边的值是否在右边的向量中，为</description>
         
         <dc:creator>PolyFish</dc:creator>
-        <media:content url="https://guankuiliu.github.ioimages/BookCover/ML_with_R.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.metasphinx.com/images/BookCover/ML_with_R.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

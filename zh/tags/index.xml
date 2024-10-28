@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on </title>
-    <link>https://guankuiliu.github.io/zh/tags/</link>
+    <link>https://www.metasphinx.com/zh/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://guankuiliu.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.metasphinx.com/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Python</title>
-        <link>https://guankuiliu.github.io/zh/tags/python/</link>
+        <link>https://www.metasphinx.com/zh/tags/python/</link>
         <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/python/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/python/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Fishery</title>
-        <link>https://guankuiliu.github.io/zh/tags/fishery/</link>
+        <link>https://www.metasphinx.com/zh/tags/fishery/</link>
         <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/fishery/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/fishery/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>R</title>
-        <link>https://guankuiliu.github.io/zh/tags/r/</link>
+        <link>https://www.metasphinx.com/zh/tags/r/</link>
         <pubDate>Fri, 24 Sep 2021 18:03:26 +0800</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/r/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/r/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>Fish4Fun</title>
-        <link>https://guankuiliu.github.io/zh/tags/fish4fun/</link>
+        <link>https://www.metasphinx.com/zh/tags/fish4fun/</link>
         <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/fish4fun/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/fish4fun/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>css</title>
-        <link>https://guankuiliu.github.io/zh/tags/css/</link>
+        <link>https://www.metasphinx.com/zh/tags/css/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/css/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/css/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -112,11 +112,11 @@
       
       <item>
         <title>html</title>
-        <link>https://guankuiliu.github.io/zh/tags/html/</link>
+        <link>https://www.metasphinx.com/zh/tags/html/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/html/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/html/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -130,11 +130,11 @@
       
       <item>
         <title>markdown</title>
-        <link>https://guankuiliu.github.io/zh/tags/markdown/</link>
+        <link>https://www.metasphinx.com/zh/tags/markdown/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/markdown/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/markdown/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -148,11 +148,11 @@
       
       <item>
         <title>themes</title>
-        <link>https://guankuiliu.github.io/zh/tags/themes/</link>
+        <link>https://www.metasphinx.com/zh/tags/themes/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/themes/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/themes/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -166,11 +166,11 @@
       
       <item>
         <title>amoji</title>
-        <link>https://guankuiliu.github.io/zh/tags/amoji/</link>
+        <link>https://www.metasphinx.com/zh/tags/amoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/amoji/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/amoji/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -184,11 +184,11 @@
       
       <item>
         <title>bamoji</title>
-        <link>https://guankuiliu.github.io/zh/tags/bamoji/</link>
+        <link>https://www.metasphinx.com/zh/tags/bamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/bamoji/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/bamoji/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -202,11 +202,11 @@
       
       <item>
         <title>emoji</title>
-        <link>https://guankuiliu.github.io/zh/tags/emoji/</link>
+        <link>https://www.metasphinx.com/zh/tags/emoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/emoji/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/emoji/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -220,11 +220,11 @@
       
       <item>
         <title>gamoji</title>
-        <link>https://guankuiliu.github.io/zh/tags/gamoji/</link>
+        <link>https://www.metasphinx.com/zh/tags/gamoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/gamoji/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/gamoji/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -238,11 +238,11 @@
       
       <item>
         <title>namoji</title>
-        <link>https://guankuiliu.github.io/zh/tags/namoji/</link>
+        <link>https://www.metasphinx.com/zh/tags/namoji/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/namoji/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/namoji/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
@@ -256,11 +256,11 @@
       
       <item>
         <title>index</title>
-        <link>https://guankuiliu.github.io/zh/tags/index/</link>
+        <link>https://www.metasphinx.com/zh/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         
-        <guid>https://guankuiliu.github.io/zh/tags/index/</guid>
+        <guid>https://www.metasphinx.com/zh/tags/index/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>

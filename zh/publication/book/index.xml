@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>book on </title>
-    <link>https://guankuiliu.github.io/zh/publication/book/</link>
+    <link>https://www.metasphinx.com/zh/publication/book/</link>
     <description>Recent content in book on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="https://guankuiliu.github.io/zh/publication/book/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.metasphinx.com/zh/publication/book/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Donec vel ipsum vulputate, dapibus magna quis</title>
-        <link>https://guankuiliu.github.io/zh/publication/book/book_any_folder_name_1/</link>
+        <link>https://www.metasphinx.com/zh/publication/book/book_any_folder_name_1/</link>
         <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Thu, 01 Jun 2017 00:00:00 +0000</atom:modified>
-        <guid>https://guankuiliu.github.io/zh/publication/book/book_any_folder_name_1/</guid>
+        <guid>https://www.metasphinx.com/zh/publication/book/book_any_folder_name_1/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>

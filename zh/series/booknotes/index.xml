@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>BookNotes on </title>
-    <link>https://guankuiliu.github.io/zh/series/booknotes/</link>
+    <link>https://www.metasphinx.com/zh/series/booknotes/</link>
     <description>Recent content in BookNotes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 10 Oct 2022 18:03:26 +0800</lastBuildDate>
     
-        <atom:link href="https://guankuiliu.github.io/zh/series/booknotes/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.metasphinx.com/zh/series/booknotes/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>《Matplotlib精进》笔记</title>
-        <link>https://guankuiliu.github.io/zh/posts/2022/2022-10-10-matplotlib/</link>
+        <link>https://www.metasphinx.com/zh/posts/2022/2022-10-10-matplotlib/</link>
         <pubDate>Mon, 10 Oct 2022 18:03:26 +0800</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Mon, 10 Oct 2022 18:03:26 +0800</atom:modified>
-        <guid>https://guankuiliu.github.io/zh/posts/2022/2022-10-10-matplotlib/</guid>
+        <guid>https://www.metasphinx.com/zh/posts/2022/2022-10-10-matplotlib/</guid>
         <description>颜色填充 多边形的颜色填充 规则多边形的颜色填充 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 import numpy as np import matplotlib.pyplot as plt x = [0, 0, 5, 10, 15, 15, 10, 5] y = [5, 10, 15, 15, 10, 5, 0, 0] plt.fill(x, y, color = &amp;#39;cornflowerblue&amp;#39;)</description>
         
         <dc:creator>Metasphinx</dc:creator>
-        <media:content url="https://guankuiliu.github.ioimages/BookCover/Matplotlib_jingjin.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.metasphinx.com/images/BookCover/Matplotlib_jingjin.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -58,15 +58,15 @@
       
       <item>
         <title>《机器学习与R语言》笔记</title>
-        <link>https://guankuiliu.github.io/zh/posts/2021/2021-09-24-machine-learning-with-r-note/</link>
+        <link>https://www.metasphinx.com/zh/posts/2021/2021-09-24-machine-learning-with-r-note/</link>
         <pubDate>Fri, 24 Sep 2021 18:03:26 +0800</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Fri, 24 Sep 2021 18:03:26 +0800</atom:modified>
-        <guid>https://guankuiliu.github.io/zh/posts/2021/2021-09-24-machine-learning-with-r-note/</guid>
+        <guid>https://www.metasphinx.com/zh/posts/2021/2021-09-24-machine-learning-with-r-note/</guid>
         <description>KNN乳腺癌诊断 过拟合：试图用模型拟合噪声。 1 2 3 4 # 保存和加载R数据结构 save(x, y ,z, file = &amp;#39;mydata.RData&amp;#39;) load(&amp;#39;mydata.RData&amp;#39;) save.image() %in%操作符：根据左边的值是否在右边的向量中，为</description>
         
         <dc:creator>PolyFish</dc:creator>
-        <media:content url="https://guankuiliu.github.ioimages/BookCover/ML_with_R.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.metasphinx.com/images/BookCover/ML_with_R.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

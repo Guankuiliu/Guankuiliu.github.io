@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Book on </title>
-    <link>https://guankuiliu.github.io/categories/book/</link>
+    <link>https://www.metasphinx.com/categories/book/</link>
     <description>Recent content in Book on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,22 +16,22 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 11 Jan 2023 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://guankuiliu.github.io/categories/book/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.metasphinx.com/categories/book/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Data Visualization with Makie</title>
-        <link>https://guankuiliu.github.io/blogs/2023/2023-01-11-julia_data_science/</link>
+        <link>https://www.metasphinx.com/blogs/2023/2023-01-11-julia_data_science/</link>
         <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Wed, 11 Jan 2023 00:00:00 +0000</atom:modified>
-        <guid>https://guankuiliu.github.io/blogs/2023/2023-01-11-julia_data_science/</guid>
+        <guid>https://www.metasphinx.com/blogs/2023/2023-01-11-julia_data_science/</guid>
         <description>Makie.jl is the front end package that defines all plotting functions required to create plot objects. To convert these plot objects to an image, three main back ends which concretely implement all abstract ren-dering capabilities defined in Makie.
  CairoMakie.j: a non-interactive 2D publication-quality vector graphics. GLMakie.j: a interactive 2D and 3D plot-ting in standalone GLFW.jl windows. WGLMakie.jl: a WebGL-based interactive 2D and 3D plotting that runs within browsers.  CairoMakie.</description>
         
         <dc:creator>PolyMax</dc:creator>
-        <media:content url="https://guankuiliu.github.ioimages/BookCover/Julia_Data_Science.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.metasphinx.com/images/BookCover/Julia_Data_Science.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -53,15 +53,15 @@
       
       <item>
         <title>Julia plotting packages</title>
-        <link>https://guankuiliu.github.io/blogs/2023/2023-01-09-julia_graphics/</link>
+        <link>https://www.metasphinx.com/blogs/2023/2023-01-09-julia_graphics/</link>
         <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Mon, 09 Jan 2023 00:00:00 +0000</atom:modified>
-        <guid>https://guankuiliu.github.io/blogs/2023/2023-01-09-julia_graphics/</guid>
+        <guid>https://www.metasphinx.com/blogs/2023/2023-01-09-julia_graphics/</guid>
         <description>Plots 1 2 3 4 5 6  # pkg&amp;gt; add Plots PyPlot GR UnicodePlots using Plots # pyplot() # PyPlot backend eq(d) = -7.65 * sind(d) + 9.87 * sind(2d + 206) plot(eq, 1:365)   UnicodePlots 1 2 3 4 5  # add UnicodePlots using UnicodePlots FirstLinePlot = lineplot([1, 2, 3, 7], [1, 2, -5, 7], title = &amp;#34;First Line Plot&amp;#34;, border = :dotted) UnicodePlots.savefig(FirstLinePlot, &amp;#34;FirstLinePlot.txt&amp;#34;)   1 2  FirstDensityPlot = densityplot(collect(1:100), randn(100), border = :dotted) UnicodePlots.</description>
         
         <dc:creator>PolyMax</dc:creator>
-        <media:content url="https://guankuiliu.github.ioimages/BookCover/Learn_Julia_Programming.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.metasphinx.com/images/BookCover/Learn_Julia_Programming.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

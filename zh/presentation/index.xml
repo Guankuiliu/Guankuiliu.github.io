@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Presentations on </title>
-    <link>https://guankuiliu.github.io/zh/presentation/</link>
+    <link>https://www.metasphinx.com/zh/presentation/</link>
     <description>Recent content in Presentations on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
     
-        <atom:link href="https://guankuiliu.github.io/zh/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.metasphinx.com/zh/presentation/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Fourth</title>
-        <link>https://guankuiliu.github.io/zh/presentation/dir/fourth/</link>
+        <link>https://www.metasphinx.com/zh/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>https://guankuiliu.github.io/zh/presentation/dir/fourth/</guid>
+        <guid>https://www.metasphinx.com/zh/presentation/dir/fourth/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
-        <media:content url="https://guankuiliu.github.ioimages/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.metasphinx.com/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -52,15 +52,15 @@
       
       <item>
         <title>Third</title>
-        <link>https://guankuiliu.github.io/zh/presentation/third/</link>
+        <link>https://www.metasphinx.com/zh/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
-        <guid>https://guankuiliu.github.io/zh/presentation/third/</guid>
+        <guid>https://www.metasphinx.com/zh/presentation/third/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
-        <media:content url="https://guankuiliu.github.ioimages/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.metasphinx.com/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -82,15 +82,15 @@
       
       <item>
         <title>Second</title>
-        <link>https://guankuiliu.github.io/zh/presentation/second/</link>
+        <link>https://www.metasphinx.com/zh/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
-        <guid>https://guankuiliu.github.io/zh/presentation/second/</guid>
+        <guid>https://www.metasphinx.com/zh/presentation/second/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
-        <media:content url="https://guankuiliu.github.ioimages/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.metasphinx.com/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -112,15 +112,15 @@
       
       <item>
         <title>First</title>
-        <link>https://guankuiliu.github.io/zh/presentation/first/</link>
+        <link>https://www.metasphinx.com/zh/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>https://guankuiliu.github.io/zh/presentation/first/</guid>
+        <guid>https://www.metasphinx.com/zh/presentation/first/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
-        <media:content url="https://guankuiliu.github.ioimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.metasphinx.com/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -142,15 +142,15 @@
       
       <item>
         <title>First</title>
-        <link>https://guankuiliu.github.io/zh/presentation/zero/</link>
+        <link>https://www.metasphinx.com/zh/presentation/zero/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>https://guankuiliu.github.io/zh/presentation/zero/</guid>
+        <guid>https://www.metasphinx.com/zh/presentation/zero/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
-        <media:content url="https://guankuiliu.github.ioimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.metasphinx.com/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
