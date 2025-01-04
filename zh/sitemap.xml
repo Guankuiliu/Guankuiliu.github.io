@@ -4,29 +4,9 @@
   <url>
     <loc>https://www.metasphinx.com/zh/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/showcase/hugo/hugo-theme-zzo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/showcase/hugo/hugo-theme-zzo/"
-                />
   </url><url>
     <loc>https://www.metasphinx.com/zh/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/showcase/hugo/hugo-theme-zdoc/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/showcase/hugo/hugo-theme-zdoc/"
-                />
   </url><url>
     <loc>https://www.metasphinx.com/zh/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
@@ -208,16 +188,6 @@
   </url><url>
     <loc>https://www.metasphinx.com/zh/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/showcase/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/showcase/hugo/"
-                />
   </url><url>
     <loc>https://www.metasphinx.com/zh/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
@@ -318,16 +288,6 @@
   </url><url>
     <loc>https://www.metasphinx.com/zh/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/presentation/dir/fourth/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/presentation/dir/fourth/"
-                />
   </url><url>
     <loc>https://www.metasphinx.com/zh/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
@@ -344,29 +304,9 @@
   </url><url>
     <loc>https://www.metasphinx.com/zh/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/presentation/third/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/presentation/third/"
-                />
   </url><url>
     <loc>https://www.metasphinx.com/zh/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/presentation/second/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/presentation/second/"
-                />
   </url><url>
     <loc>https://www.metasphinx.com/zh/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
