@@ -21,6 +21,64 @@
                 href="https://www.metasphinx.com/"
                 />
   </url><url>
+    <loc>https://www.metasphinx.com/blogs/</loc>
+    <lastmod>2025-03-15T21:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://www.metasphinx.com/categories/</loc>
+    <lastmod>2025-03-15T21:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.metasphinx.com/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.metasphinx.com/categories/"
+                />
+  </url><url>
+    <loc>https://www.metasphinx.com/blogs/2025/deep_quantile_regression/</loc>
+    <lastmod>2025-03-15T21:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://www.metasphinx.com/tags/python/</loc>
+    <lastmod>2025-03-15T21:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.metasphinx.com/zh/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.metasphinx.com/tags/python/"
+                />
+  </url><url>
+    <loc>https://www.metasphinx.com/tags/</loc>
+    <lastmod>2025-03-15T21:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.metasphinx.com/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.metasphinx.com/tags/"
+                />
+  </url><url>
+    <loc>https://www.metasphinx.com/categories/vis/</loc>
+    <lastmod>2025-03-15T21:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.metasphinx.com/zh/categories/vis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.metasphinx.com/categories/vis/"
+                />
+  </url><url>
     <loc>https://www.metasphinx.com/publication/article/2024_pelagic_and_demersal_fish_population_rebuilding_in_response_to_fisheries-induced_evolution_in_exploited_china_seas/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -35,19 +93,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.metasphinx.com/publication/"
-                />
-  </url><url>
-    <loc>https://www.metasphinx.com/categories/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/categories/"
                 />
   </url><url>
     <loc>https://www.metasphinx.com/presentation/p20240522_marine-heatwaves/</loc>
@@ -86,19 +131,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.metasphinx.com/series/"
-                />
-  </url><url>
-    <loc>https://www.metasphinx.com/tags/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/tags/"
                 />
   </url><url>
     <loc>https://www.metasphinx.com/publication/article/2024_the-feeding-strategies-of-the-antarctic-lanternfish-electrona-antarctica-pisces-myctophidae-in-the-amundsen-and-cosmonaut-seas-southern-ocean-assessed/</loc>
@@ -141,9 +173,6 @@
   </url><url>
     <loc>https://www.metasphinx.com/publication/article/2023_exploring-balanced-harvest-as-a-potential-strategy-for-highly-exploited-multispecies-fisheries/</loc>
     <lastmod>2023-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.metasphinx.com/blogs/</loc>
-    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/categories/book/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>

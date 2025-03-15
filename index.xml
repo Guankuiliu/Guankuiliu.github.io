@@ -42,6 +42,40 @@
 
       
       <item>
+        <title>Deep Quantile Regression</title>
+        <link>https://www.metasphinx.com/blogs/2025/deep_quantile_regression/</link>
+        <pubDate>Sat, 15 Mar 2025 21:00:06 +0900</pubDate>
+        <author>endrhythmATgmail.com (Guankui Liu)</author>
+        <atom:modified>Sat, 15 Mar 2025 21:00:06 +0900</atom:modified>
+        <guid>https://www.metasphinx.com/blogs/2025/deep_quantile_regression/</guid>
+        <description>deep QGM Network Architecture  digraph {graph [size=&amp;quot;22.05,22.05&amp;quot;]node [align=left fontname=monospace fontsize=10 height=0.2 ranksep=0.1 shape=box style=filled]139945457199760 [label=&amp;quot;(1, 9)&amp;quot; fillcolor=darkolivegreen1]139945434913568 [label=CatBackward0]139945434913664 -&amp;gt; 139945434913568139945434913664 [label=AddmmBackward0]139945434914000 -&amp;gt; 139945434913664139945437824480 [label=&amp;quot;outputs.0.bias(1)&amp;quot; fillcolor=lightblue]139945437824480 -&amp;gt; 139945434914000139945434914000 [label=AccumulateGrad]139945434913952 -&amp;gt; 139945434913664139945434913952 [label=ReluBackward0]139945434914096 -&amp;gt; 139945434913952139945434914096 [label=AddmmBackward0]139945434914240 -&amp;gt; 139945434914096139945459033088 [label=&amp;quot;fc2.bias(10)&amp;quot; fillcolor=lightblue]139945459033088 -&amp;gt; 139945434914240139945434914240 [label=AccumulateGrad]139945434914192 -&amp;gt; 139945434914096139945434914192 [label=ReluBackward0]139945434914336 -&amp;gt; 139945434914192139945434914336 [label=AddmmBackward0]139945434914528 -&amp;gt; 139945434914336139945457179680 [label=&amp;quot;fc1.</description>
+        
+        <dc:creator>Guankui Liu</dc:creator>
+        <media:content url="https://www.metasphinx.com/images/feature2/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+          
+            
+              <category>Vis</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Data Visualization with Makie</title>
         <link>https://www.metasphinx.com/blogs/2023/2023-01-11-julia_data_science/</link>
         <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
