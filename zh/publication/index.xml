@@ -21,24 +21,6 @@
 
       
       <item>
-        <title>article</title>
-        <link>https://www.metasphinx.com/zh/publication/article/</link>
-        <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>endrhythmATgmail.com (Guankui Liu)</author>
-        <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>https://www.metasphinx.com/zh/publication/article/</guid>
-        <description></description>
-        
-        <dc:creator>Guankui Liu</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>book</title>
         <link>https://www.metasphinx.com/zh/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
@@ -63,6 +45,24 @@
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>https://www.metasphinx.com/zh/publication/misc/</guid>
+        <description></description>
+        
+        <dc:creator>Guankui Liu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>读书笔记</title>
+        <link>https://www.metasphinx.com/zh/publication/booknote/</link>
+        <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
+        <author>endrhythmATgmail.com (Guankui Liu)</author>
+        <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
+        <guid>https://www.metasphinx.com/zh/publication/booknote/</guid>
         <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>

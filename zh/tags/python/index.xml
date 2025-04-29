@@ -119,12 +119,12 @@
       </item>
       
       <item>
-        <title>《Matplotlib精进》笔记</title>
-        <link>https://www.metasphinx.com/zh/posts/2022/2022-10-10-matplotlib/</link>
+        <title>《Matplotlib精进》</title>
+        <link>https://www.metasphinx.com/zh/booknote/2022-10-10-matplotlib/</link>
         <pubDate>Mon, 10 Oct 2022 18:03:26 +0800</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Mon, 10 Oct 2022 18:03:26 +0800</atom:modified>
-        <guid>https://www.metasphinx.com/zh/posts/2022/2022-10-10-matplotlib/</guid>
+        <guid>https://www.metasphinx.com/zh/booknote/2022-10-10-matplotlib/</guid>
         <description>颜色填充 多边形的颜色填充 规则多边形的颜色填充 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 import numpy as np import matplotlib.pyplot as plt x = [0, 0, 5, 10, 15, 15, 10, 5] y = [5, 10, 15, 15, 10, 5, 0, 0] plt.fill(x, y, color = &amp;#39;cornflowerblue&amp;#39;)</description>
         
         <dc:creator>Metasphinx</dc:creator>

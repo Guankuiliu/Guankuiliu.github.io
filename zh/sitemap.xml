@@ -107,7 +107,10 @@
                 href="https://www.metasphinx.com/zh/series/"
                 />
   </url><url>
-    <loc>https://www.metasphinx.com/zh/posts/2022/2022-10-10-matplotlib/</loc>
+    <loc>https://www.metasphinx.com/zh/booknote/2022-10-10-matplotlib/</loc>
+    <lastmod>2022-10-10T18:03:26+08:00</lastmod>
+  </url><url>
+    <loc>https://www.metasphinx.com/zh/booknote/</loc>
     <lastmod>2022-10-10T18:03:26+08:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/categories/ml/</loc>
@@ -116,7 +119,7 @@
     <loc>https://www.metasphinx.com/zh/tags/r/</loc>
     <lastmod>2021-09-24T18:03:26+08:00</lastmod>
   </url><url>
-    <loc>https://www.metasphinx.com/zh/posts/2021/2021-09-24-machine-learning-with-r-note/</loc>
+    <loc>https://www.metasphinx.com/zh/booknote/2021-09-24-machine-learning-with-r/</loc>
     <lastmod>2021-09-24T18:03:26+08:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/tags/fish4fun/</loc>
@@ -152,19 +155,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.metasphinx.com/zh/about/"
-                />
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/publication/article/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/publication/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/publication/article/"
                 />
   </url><url>
     <loc>https://www.metasphinx.com/zh/publication/book/</loc>
@@ -205,6 +195,9 @@
                 hreflang="zh"
                 href="https://www.metasphinx.com/zh/publication/"
                 />
+  </url><url>
+    <loc>https://www.metasphinx.com/zh/publication/booknote/</loc>
+    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
@@ -305,43 +298,6 @@
                 hreflang="zh"
                 href="https://www.metasphinx.com/zh/gallery/photo/"
                 />
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/presentation/dir/fourth/</loc>
-    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/presentation/</loc>
-    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/presentation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/presentation/"
-                />
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/presentation/third/</loc>
-    <lastmod>2019-10-30T20:46:30+09:00</lastmod>
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/presentation/second/</loc>
-    <lastmod>2019-10-30T20:45:24+09:00</lastmod>
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/presentation/first/</loc>
-    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/presentation/zero/</loc>
-    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/publication/article/article_any_folder_name_1/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/publication/book/book_any_folder_name_1/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/publication/misc/misc_any_folder_name_1/</loc>
-    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/tags/index/</loc>
     <xhtml:link
