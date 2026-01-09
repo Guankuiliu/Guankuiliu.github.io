@@ -1334,9 +1334,9 @@
 <meta name="description" content="Deep quantile regression for growth and maturation reaction norms." />
 
 
-<meta name="created" content="2024-12-05T21:13:42&#43;0900">
-<meta name="modified" content="2024-12-05T21:13:42&#43;0900">
-<meta property="article:published_time" content="2024-12-05T21:13:42&#43;0900">
+<meta name="created" content="2026-01-07T21:13:42&#43;0900">
+<meta name="modified" content="2026-01-07T21:13:42&#43;0900">
+<meta property="article:published_time" content="2026-01-07T21:13:42&#43;0900">
 
 <meta name="author" content="Guankui Liu">
 
@@ -1383,8 +1383,8 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "headline": "Deep Quantile Maturation Reaction Norms",
-    "datePublished": "2024-12-05T21:13:42+09:00",
-    "dateModified": "2024-12-05T21:13:42+09:00",
+    "datePublished": "2026-01-07T21:13:42+09:00",
+    "dateModified": "2026-01-07T21:13:42+09:00",
     "url" : "https://www.metasphinx.com/showcase/papercode/deepqmrn/",
     "description": "Deep quantile regression for growth and maturation reaction norms.",
     "mainEntityOfPage": {
@@ -1665,7 +1665,7 @@
             
             
 
-<main class="single__main main-main">
+<main class="single__main main">
   
     <nav class="breadcrumb hide" aria-label="breadcrumbs">
   <script>document.querySelector('.breadcrumb').classList.remove('hide')</script>
@@ -1724,9 +1724,9 @@
     <div class="single__meta">
       
 <div class="single__infos">
-  <time class="single__info" title="Written At">📅&nbsp;Dec 5, 2024 </time>
+  <time class="single__info" title="Written At">📅&nbsp;Jan 7, 2026 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;0&nbsp;min read </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;12&nbsp;min read </span>
   
   <span class="single__info">
     
@@ -1742,7 +1742,100 @@
     </div>
     <article class="single__contents" data-dir="ltr" data-ani="true">
       
-      
+      <audio controls>
+  <source src="https://polymath.obs.cn-east-3.myhuaweicloud.com/guankui.name/2025_MEE.m4a" type="audio/mpeg">
+</audio>
+<h2 id="deep-dive-into-marine-science--deep-learning">Deep Dive into Marine Science &amp; Deep Learning</h2>
+<p><strong>Host 1</strong>: Welcome back to the Deep Dive. Today we&rsquo;re wading into some really deep water. We&rsquo;re talking about marine science, fish populations, and a pretty big and, honestly, worrying trend.</p>
+<p><strong>Host 2</strong>: It&rsquo;s a critical topic. We&rsquo;re seeing this consistent pattern where human activity—you know, everything from fishing to climate change—is causing fish to mature faster and at smaller sizes. The whole biosphere is shrinking.</p>
+<p><strong>Host 1</strong>: Right. And if you&rsquo;re trying to manage a fishery or you just care about ocean health, you need to track these changes. You have to know the basics: how fast are they growing? When do they mature?</p>
+<p><strong>Host 2</strong>: And that&rsquo;s where the old methods have, well, they&rsquo;ve started to fall short. For a long time, ecologists have relied on what are called <strong>mean regression models</strong>.</p>
+<p><strong>Host 1</strong>: So they&rsquo;re modeling the &ldquo;average&rdquo; fish.</p>
+<p><strong>Host 2</strong>: Exactly. Just the average. And that&rsquo;s the danger. By focusing only on the middle, you completely miss what scientists call <strong>heterogeneity</strong>.</p>
+<p><strong>Host 1</strong>: The individual variation.</p>
+<p><strong>Host 2</strong>: The individual variation. You miss the super fast growers and the really big, late-maturing ones that are so important for reproduction.</p>
+<p><strong>Host 1</strong>: It sounds a bit like trying to understand a country&rsquo;s economy just by looking at the average income. You&rsquo;d miss all the nuance, right? The poverty and the billionaires.</p>
+<p><strong>Host 2</strong>: That&rsquo;s a perfect analogy. The average can hide these critical shifts that are happening at the edges. And those edges are often where you first see a population adapting or heading for disaster.</p>
+<p><strong>Host 1</strong>: Okay, so let&rsquo;s unpack that. How do we move beyond the average and get the full story without it becoming overwhelmingly complex?</p>
+<p><strong>Host 2</strong>: Well, the traditional tool for this, for maturation, has been the <strong>Probabilistic Maturation Reaction Norm (PMRN)</strong>.</p>
+<p><strong>Host 1</strong>: PMRN. Okay.</p>
+<p><strong>Host 2</strong>: It&rsquo;s basically a statistical model, a logistic regression, that calculates the probability that an average fish will mature based on its age and size.</p>
+<p><strong>Host 1</strong>: That sounds pretty solid on the surface. So what&rsquo;s the fatal flaw when you apply it to a real, messy population?</p>
+<p><strong>Host 2</strong>: The flaw is this core assumption that the population is, well, uniform. It assumes that both mature and immature fish of the same age are growing at the same rate.</p>
+<p><strong>Host 1</strong>: But that&rsquo;s not how it works in reality.</p>
+<p><strong>Host 2</strong>: Not at all. You can have two one-year-old fish: one tiny and one huge because of their different growth history. The PMRN really struggles to separate that growth variation from the actual decision to mature.</p>
+<p><strong>Host 1</strong>: So it&rsquo;s forcing a simple model onto a really complex biological reality.</p>
+<p><strong>Host 2</strong>: Precisely. And that&rsquo;s why this new research explores something different: <strong>Quantile Regression (QR)</strong>.</p>
+<p><strong>Host 1</strong>: And QR moves beyond the average.</p>
+<p><strong>Host 2</strong>: It does. Instead of just modeling the mean—the 50th percentile—QR lets you model relationships across the whole distribution: the 10th percentile, the 50th, the 90th, all at the same time.</p>
+<p><strong>Host 1</strong>: So to go back to my analogy, you&rsquo;re not just seeing the average income anymore; you&rsquo;re seeing the income trajectory for the poorest 10% versus the richest 10%.</p>
+<p><strong>Host 2</strong>: Exactly. You can finally see how, say, a change in temperature affects the slowest growers differently than the fastest growers. You see the heterogeneous effects.</p>
+<p><strong>Host 1</strong>: So ecologists have used this before?</p>
+<p><strong>Host 2</strong>: They have, for some basic things like animal growth. But the big step forward, the one we&rsquo;re looking at today, is combining QR with <strong>Deep Neural Networks</strong>.</p>
+<p><strong>Host 1</strong>: The deep learning leap. Why bring deep learning into it? Is it just about more computer power?</p>
+<p><strong>Host 2</strong>: It&rsquo;s more about flexibility. Traditional models often force you to assume a specific mathematical shape for the data, like an exponential curve. A deep quantile framework, on the other hand, lets the DNN learn those complex, non-linear patterns directly from the data without those rigid assumptions.</p>
+<p><strong>Host 1</strong>: So you get better predictions.</p>
+<p><strong>Host 2</strong>: You get much better predictive accuracy, especially with these huge, messy ecological datasets.</p>
+<p><strong>Host 1</strong>: So we&rsquo;re taking the statistical idea of quantile regression and supercharging it with the flexibility of deep learning. Okay, let&rsquo;s get into the new tools this research developed.</p>
+<p><strong>Host 2</strong>: They came up with two core models. The first one is the <strong>Deep Quantile Growth Model (DQGM)</strong>. And this one, as the name suggests, is all about growth.</p>
+<p><strong>Host 1</strong>: Okay, what makes it &ldquo;deep&rdquo;?</p>
+<p><strong>Host 2</strong>: It turns a classic growth model into a multi-output neural network, and each of those outputs corresponds to a specific quantile of the population.</p>
+<p><strong>Host 1</strong>: I see. So one output for the 10th percentile growth curve, another for the 20th, and so on.</p>
+<p><strong>Host 2</strong>: That&rsquo;s it. And the key is that it doesn&rsquo;t assume what that growth curve should look like beforehand. It lets the data define the growth trajectory at every single level, which gives you this incredibly rich picture of variation.</p>
+<p><strong>Host 1</strong>: And the second model handles maturation.</p>
+<p><strong>Host 2</strong>: Correct. That&rsquo;s the <strong>Deep Binary Quantile Maturation Model (DBQMM)</strong>. It has to be binary because, well, an individual is either mature or immature.</p>
+<p><strong>Host 1</strong>: Right. And this new model gives us a new concept: <strong>Quantile Maturation Reaction Norms (QMRNs)</strong>. How is a QMRN different from the old PMRN?</p>
+<p><strong>Host 2</strong>: It&rsquo;s a fundamental shift. A PMRN gives you a single line—the probability for the &ldquo;average&rdquo; fish. A QMRN gives you a whole band of lines.</p>
+<p><strong>Host 1</strong>: One for each quantile.</p>
+<p><strong>Host 2</strong>: One for each quantile. So you&rsquo;re not just seeing the middle anymore; you&rsquo;re seeing the entire spread, the whole distribution of maturation strategies in the population.</p>
+<p><strong>Host 1</strong>: And how are they calculated? It sounds more complex.</p>
+<p><strong>Host 2</strong>: It is. The old PMRNs come from simple logistic functions. The QMRNs are derived from what are called <strong>Learnt Latent Functions</strong> inside the deep learning model. It&rsquo;s a more data-driven and, yeah, a more computationally intense way to get there.</p>
+<p><strong>Host 1</strong>: And they created an index to measure this spread, right? The <strong>QMRN width</strong>.</p>
+<p><strong>Host 2</strong>: They did, the &ldquo;dollar dollars.&rdquo; It&rsquo;s a very neat way to put a single number on how variable the population is. It measures the distance between the 25th and 75th percentile curves. So if that width is really wide, you&rsquo;ve got a highly diverse population. If it&rsquo;s narrow, they&rsquo;re all maturing around the same size.</p>
+<p><strong>Host 1</strong>: So when they tested this on simulated data, did all this complexity actually pay off?</p>
+<p><strong>Host 2</strong>: It absolutely did. The QMRNs were far more reliable and robust, especially when it came to capturing the extreme values—the outliers.</p>
+<p><strong>Host 1</strong>: And what did that mean for the old model?</p>
+<p><strong>Host 2</strong>: It showed that the traditional PMRN width was always smaller than the QMRN width.</p>
+<p><strong>Host 1</strong>: Wait, so the old method was consistently underestimating how much variation there really was.</p>
+<p><strong>Host 2</strong>: That&rsquo;s the key takeaway. It was giving us a simplified, maybe even a dangerously optimistic view of the population&rsquo;s diversity. The deep learning approach is just much better at mapping out those extremes where all the interesting stuff happens.</p>
+<p><strong>Host 1</strong>: Here&rsquo;s where it gets really interesting. Let&rsquo;s move from the simulation to the real world, to these <strong>largehead hairtail</strong> populations off the coast of Taiwan.</p>
+<p><strong>Host 2</strong>: Right, <em>Trichiurus japonicus</em>. The researchers looked at data from 2013 to 2015 from two very different spots. There was <strong>Site K</strong> on the cooler northern coast—&ldquo;K for K-ool&rdquo;—and <strong>Site T</strong> on the warmer southern coast—&ldquo;T for Tropical.&rdquo; They wanted to see if the environment and fishing pressure were driving different life histories.</p>
+<p><strong>Host 1</strong>: And were they?</p>
+<p><strong>Host 2</strong>: The difference was stark. At the warmer Site T, the fish were maturing much, much earlier. The average age for maturity was just over one year.</p>
+<p><strong>Host 1</strong>: Just over a year. Wow.</p>
+<p><strong>Host 2</strong>: And they were maturing at a smaller size, around 50 grams. In fact, at Site T, 100% of the individuals were mature before they even hit age two.</p>
+<p><strong>Host 1</strong>: So a real &ldquo;live fast, die young&rdquo; strategy. What about up north at the cooler Site K?</p>
+<p><strong>Host 2</strong>: It was a completely different story. There, they matured almost half a year later at 1.55 years and at a much larger size, over 82 grams.</p>
+<p><strong>Host 1</strong>: That&rsquo;s a huge difference in weight.</p>
+<p><strong>Host 2</strong>: It is. And at Site K, only about 80% of the population was mature before age two. So, you know, a slower, bigger strategy. The statistics confirmed it was a very real, significant difference.</p>
+<p><strong>Host 1</strong>: And that fits with what we know about biology, right?</p>
+<p><strong>Host 2</strong>: Yeah, the <strong>Temperature-Size Rule</strong>, where cooler water often leads to slower growth but a larger final size. It aligns perfectly. And what&rsquo;s more, the deep DBQMM model proved it was the better tool. It predicted the maturation status at Site K with 88% accuracy. The old logistic model only managed 82%.</p>
+<p><strong>Host 1</strong>: Okay, but here&rsquo;s the part I found fascinating: it was the growth patterns. The simple mean-based models actually suggested that the fish at the cooler Site K had a higher average growth rate.</p>
+<p><strong>Host 2</strong>: I know, it seems totally counter-intuitive. And that&rsquo;s a perfect example of the mean hiding the details.</p>
+<p><strong>Host 1</strong>: So what did the DQGM—the quantile model—reveal?</p>
+<p><strong>Host 2</strong>: It clarified the whole story. It showed that the juveniles at the warmer Site T have this incredibly rapid burst of growth in their first year—they just shoot out of the gate.</p>
+<p><strong>Host 1</strong>: But then it slows down.</p>
+<p><strong>Host 2</strong>: Exactly. Their growth slows way down as adults, and the fish from the colder Site K eventually overtake them and reach a much larger final size. That initial growth burst at the warmer site was completely invisible to the mean model.</p>
+<p><strong>Host 1</strong>: And that has to have implications for fisheries, right? If the fish at the warmer Site T are growing fast early and maturing small, it suggests they&rsquo;re under incredible fishing pressure.</p>
+<p><strong>Host 2</strong>: It absolutely does. The researchers believe this early maturation might be an evolutionary response to intense, size-selective harvesting. It&rsquo;s exactly the kind of nuance a fishery manager needs to see to regulate things properly.</p>
+<p><strong>Host 1</strong>: And that brings us to why this all really matters. Why we should care so much about the fish at the edges of the curve.</p>
+<p><strong>Host 2</strong>: It all comes down to one word: <strong>Fecundity</strong>. That&rsquo;s reproductive output. And it doesn&rsquo;t scale linearly with body size; it scales <strong>allometrically</strong>.</p>
+<p><strong>Host 1</strong>: Okay, hold on. Allometrically. Let&rsquo;s break that down for a second. That means it&rsquo;s not a one-to-one relationship, right?</p>
+<p><strong>Host 2</strong>: Right, it&rsquo;s disproportionate. A fish that&rsquo;s twice as big can produce, you know, maybe four or five times the eggs. These few really large individuals in the upper quantiles—they are the reproductive powerhouses of the population.</p>
+<p><strong>Host 1</strong>: So if your model only looks at the average-sized fish, you are completely ignoring the most important contributors to the next generation.</p>
+<p><strong>Host 2</strong>: You risk significantly—and I mean <em>significantly</em>—underestimating the population&rsquo;s reproductive potential. You could have one giant fish that produces more eggs than a hundred small ones. If your model doesn&rsquo;t see that giant, you&rsquo;re flying blind.</p>
+<p><strong>Host 1</strong>: So these new models are clearly more accurate, they&rsquo;re more robust, but all this complexity—all this deep learning—comes with a cost: the &ldquo;<strong>Black Box</strong>&rdquo; problem.</p>
+<p><strong>Host 2</strong>: Yes, the black box. It&rsquo;s the classic trade-off with machine learning. The neural networks are so complex, it&rsquo;s hard to look inside and understand exactly why they&rsquo;re making a certain prediction. For an ecologist, that loss of interpretability is a real concern.</p>
+<p><strong>Host 1</strong>: Is there any way around that? To get the accuracy but also get some of the &ldquo;why&rdquo;?</p>
+<p><strong>Host 2</strong>: There are tools. The researchers suggest using something called <strong>SHAP values</strong>. It&rsquo;s a method that can essentially force the black box to explain itself. It quantifies how much each input, like age or temperature, contributed to the final result.</p>
+<p><strong>Host 1</strong>: So it helps you peek inside. What&rsquo;s the other big hurdle for an ecologist who wants to use this?</p>
+<p><strong>Host 2</strong>: It&rsquo;s the technical side. <strong>Hyper-parameter tuning</strong>. Just setting up and optimizing these networks is complex and needs a lot of computational resources. It&rsquo;s a significant barrier for labs that don&rsquo;t have a dedicated machine learning expert on site.</p>
+<p><strong>Host 1</strong>: Okay, so we have this tension: we have superior accuracy versus this added complexity. And this leads to the final, really interesting wrinkle in the study.</p>
+<p><strong>Host 2</strong>: Right. Because despite the deep quantile model, the QMRN, being demonstrably better at predicting the extremes&hellip; when they ran a standard statistical test, just comparing the population averages, there was no significant difference between the old model and the new one.</p>
+<p><strong>Host 1</strong>: So let me get this straight: you have this cutting-edge, complex model that, if you only look at the average, tells you the same thing as the simple old model. But at the same time, it&rsquo;s revealing this crucial, hidden story about the most important individuals that the old model completely missed.</p>
+<p><strong>Host 2</strong>: That is the paradox. Our quantile-based deep neural network gives ecologists this much richer, more nuanced view of what&rsquo;s happening. It has lower errors, provides deeper insights&hellip; but its real value isn&rsquo;t in correcting the average. Its value is in showing us that the average was never the whole story to begin with.</p>
+<p><strong>Host 1</strong>: So what does this all mean for you, the listener? If the new model doesn&rsquo;t change the official population average, but it reveals that the most reproductively valuable fish are being missed or are facing unique pressure, how do fishery managers justify the massive cost and complexity of integrating this new machine learning system? Are we trading statistical simplicity for a deeper, truer understanding of ecological sustainability? Something to consider as we move into the age of deep learning ecology.</p>
+
     </article>
     
     
@@ -2439,36 +2532,12 @@ document.addEventListener('DOMContentLoaded', function () {
 </main>
 
 
-<aside class="single__side main-side">
-  
-
-
-<section class="sidebar hide">
-  <script>document.querySelector('.sidebar').classList.remove('hide')</script>
-  <div class="toc__flexbox" data-position="fixed">
-    <h6 class="toc__title" data-ani="true">What&#39;s on this Page</h6>
-    
-      <label class="switch" data-ani="true">
-        <input id="toggle-toc" aria-label="Toggle TOC" type="checkbox" checked>
-        <span class="slider round"></span>
-      </label>
-    
-  </div>
-  <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
-    <nav id="TableOfContents"></nav>
-  </div>
-</section>
-
-
-
-</aside>
-
 <script>
   
   
   
 
-  var enableToc = JSON.parse("true");
+  var enableToc = JSON.parse("false");
   var toc = JSON.parse("null");
   var tocPosition = JSON.parse("\"inner\"");
   
@@ -2619,7 +2688,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
     
     
-    var enableToc = JSON.parse("true");
+    var enableToc = JSON.parse("false");
     var toc = JSON.parse("null");
     var hideToc = JSON.parse("false");
     var tocFlexbox = document.querySelector('.toc__flexbox');
