@@ -257,19 +257,6 @@
     <loc>https://www.metasphinx.com/zh/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://www.metasphinx.com/zh/gallery/cartoon/</loc>
-    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/gallery/cartoon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/gallery/cartoon/"
-                />
-  </url><url>
     <loc>https://www.metasphinx.com/zh/gallery/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
@@ -283,18 +270,8 @@
                 href="https://www.metasphinx.com/zh/gallery/"
                 />
   </url><url>
-    <loc>https://www.metasphinx.com/zh/gallery/photo/</loc>
+    <loc>https://www.metasphinx.com/zh/gallery/%E7%BB%98%E7%94%BB/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/gallery/photo/"
-                />
   </url><url>
     <loc>https://www.metasphinx.com/zh/tags/index/</loc>
     <xhtml:link

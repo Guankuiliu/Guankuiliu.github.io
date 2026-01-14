@@ -21,34 +21,16 @@
 
       
       <item>
-        <title>Cartoon</title>
-        <link>https://www.metasphinx.com/zh/gallery/cartoon/</link>
+        <title>绘画</title>
+        <link>https://www.metasphinx.com/zh/gallery/%E7%BB%98%E7%94%BB/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>endrhythmATgmail.com (Guankui Liu)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://www.metasphinx.com/zh/gallery/cartoon/</guid>
-        <description>Sample images from Pixabay</description>
+        <guid>https://www.metasphinx.com/zh/gallery/%E7%BB%98%E7%94%BB/</guid>
+        <description></description>
         
         <dc:creator>Guankui Liu</dc:creator>
-        <media:content url="https://www.metasphinx.com/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Photo</title>
-        <link>https://www.metasphinx.com/zh/gallery/photo/</link>
-        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>endrhythmATgmail.com (Guankui Liu)</author>
-        <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>https://www.metasphinx.com/zh/gallery/photo/</guid>
-        <description>Sample images from Pixabay</description>
-        
-        <dc:creator>Guankui Liu</dc:creator>
-        <media:content url="https://www.metasphinx.com/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.metasphinx.com/gallery/Still%20Life__Vase%20with%20Pink%20Roses.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
