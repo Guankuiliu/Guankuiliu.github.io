@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>深夜食堂 on </title>
+    <link>https://www.metasphinx.com/zh/showcase/cool/</link>
+    <description>Recent content in 深夜食堂 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>endrhythmATgmail.com (Guankui Liu)</managingEditor>
+    <webMaster>endrhythmATgmail.com (Guankui Liu)</webMaster>
+    <copyright>©2026, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 14 Jan 2026 21:04:11 +0900</lastBuildDate>
+    
+        <atom:link href="https://www.metasphinx.com/zh/showcase/cool/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>土豆炖牛肉</title>
+        <link>https://www.metasphinx.com/zh/showcase/cool/%E5%9C%9F%E8%B1%86%E7%82%96%E7%89%9B%E8%82%89/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>endrhythmATgmail.com (Guankui Liu)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://www.metasphinx.com/zh/showcase/cool/%E5%9C%9F%E8%B1%86%E7%82%96%E7%89%9B%E8%82%89/</guid>
+        <description>毛豆洗净，切块。牛肉切块焯水备用。锅中放少许油，加入葱姜蒜爆香，加入牛肉翻炒至变色，加入料酒、生抽、老抽、八角、桂皮、香叶继续翻炒均匀。加入</description>
+        
+        <dc:creator>Guankui Liu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>红烧牛肉</title>
+        <link>https://www.metasphinx.com/zh/showcase/cool/%E5%9C%9F%E8%B1%86%E7%82%96%E7%89%9B%E8%82%892/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>endrhythmATgmail.com (Guankui Liu)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://www.metasphinx.com/zh/showcase/cool/%E5%9C%9F%E8%B1%86%E7%82%96%E7%89%9B%E8%82%892/</guid>
+        <description></description>
+        
+        <dc:creator>Guankui Liu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
