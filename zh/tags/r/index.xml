@@ -11,8 +11,8 @@
     <description>Recent content in R on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>endrhythmATgmail.com (Guankui Liu)</managingEditor>
-    <webMaster>endrhythmATgmail.com (Guankui Liu)</webMaster>
+    <managingEditor>endrhythmATgmail.com (刘贯奎)</managingEditor>
+    <webMaster>endrhythmATgmail.com (刘贯奎)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 24 Sep 2021 18:03:26 +0800</lastBuildDate>
     
@@ -24,7 +24,7 @@
         <title>《机器学习与R语言》</title>
         <link>https://www.metasphinx.com/zh/booknote/20210924_machine_learning_with_r/</link>
         <pubDate>Fri, 24 Sep 2021 18:03:26 +0800</pubDate>
-        <author>endrhythmATgmail.com (Guankui Liu)</author>
+        <author>endrhythmATgmail.com (刘贯奎)</author>
         <atom:modified>Fri, 24 Sep 2021 18:03:26 +0800</atom:modified>
         <guid>https://www.metasphinx.com/zh/booknote/20210924_machine_learning_with_r/</guid>
         <description>KNN乳腺癌诊断 过拟合：试图用模型拟合噪声。 1 2 3 4 # 保存和加载R数据结构 save(x, y ,z, file = &amp;#39;mydata.RData&amp;#39;) load(&amp;#39;mydata.RData&amp;#39;) save.image() %in%操作符：根据左边的值是否在右边的向量中，为</description>

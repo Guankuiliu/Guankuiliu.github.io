@@ -11,8 +11,8 @@
     <description>Recent content in bamoji on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>endrhythmATgmail.com (Guankui Liu)</managingEditor>
-    <webMaster>endrhythmATgmail.com (Guankui Liu)</webMaster>
+    <managingEditor>endrhythmATgmail.com (刘贯奎)</managingEditor>
+    <webMaster>endrhythmATgmail.com (刘贯奎)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
@@ -24,7 +24,7 @@
         <title>Emoji Support</title>
         <link>https://www.metasphinx.com/zh/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>endrhythmATgmail.com (Guankui Liu)</author>
+        <author>endrhythmATgmail.com (刘贯奎)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
         <guid>https://www.metasphinx.com/zh/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
