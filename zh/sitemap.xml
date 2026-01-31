@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.metasphinx.com/zh/showcase/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/20251219_%E5%9C%9F%E8%B1%86%E7%83%A7%E7%89%9B%E8%82%89/</loc>
+    <lastmod>2025-12-19T21:13:42+09:00</lastmod>
+  </url><url>
     <loc>https://www.metasphinx.com/zh/gallery/%E7%BB%98%E7%94%BB/</loc>
     <lastmod>2020-12-12T10:20:16+09:00</lastmod>
   </url><url>
-    <loc>https://www.metasphinx.com/zh/showcase/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/%E5%9C%9F%E8%B1%86%E7%83%A7%E7%89%9B%E8%82%89/</loc>
-    <lastmod>2025-12-19T21:13:42+09:00</lastmod>
+    <loc>https://www.metasphinx.com/zh/showcase/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/20260131_%E7%89%9B%E8%82%89%E7%82%92%E8%8A%A6%E7%AC%8B/</loc>
+    <lastmod>2026-01-31T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/</loc>
-    <lastmod>2026-01-14T21:04:11+09:00</lastmod>
+    <lastmod>2026-01-31T21:13:42+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
