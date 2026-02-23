@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>醉舞经阁半卷书 on </title>
+    <link>https://www.metasphinx.com/zh/showcase/book/</link>
+    <description>Recent content in 醉舞经阁半卷书 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>endrhythmATgmail.com (刘贯奎)</managingEditor>
+    <webMaster>endrhythmATgmail.com (刘贯奎)</webMaster>
+    <copyright>©2026, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 14 Jan 2026 21:04:11 +0900</lastBuildDate>
+    
+        <atom:link href="https://www.metasphinx.com/zh/showcase/book/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>土豆烧牛肉</title>
+        <link>https://www.metasphinx.com/zh/showcase/book/20260228_%E9%81%A5%E8%BF%9C%E7%9A%84%E6%95%91%E4%B8%96%E4%B8%BB/</link>
+        <pubDate>Fri, 19 Dec 2025 21:13:42 +0900</pubDate>
+        <author>endrhythmATgmail.com (刘贯奎)</author>
+        <atom:modified>Fri, 19 Dec 2025 21:13:42 +0900</atom:modified>
+        <guid>https://www.metasphinx.com/zh/showcase/book/20260228_%E9%81%A5%E8%BF%9C%E7%9A%84%E6%95%91%E4%B8%96%E4%B8%BB/</guid>
+        <description>《念奴娇·鸟儿问答》 ——毛泽东 鲲鹏展翅，九万里，翻动扶摇羊角。 背负青天朝下看，都是人间城郭。 炮火连天，弹痕遍地，吓倒蓬间雀。 怎么得了，哎呀我</description>
+        
+        <dc:creator>刘贯奎</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

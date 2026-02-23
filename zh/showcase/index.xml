@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>小作坊 on </title>
+    <title>影音书 on </title>
     <link>https://www.metasphinx.com/zh/showcase/</link>
-    <description>Recent content in 小作坊 on </description>
+    <description>Recent content in 影音书 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>endrhythmATgmail.com (刘贯奎)</managingEditor>
     <webMaster>endrhythmATgmail.com (刘贯奎)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 19 Jan 2020 15:43:38 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 15:43:38 +0900</lastBuildDate>
     
         <atom:link href="https://www.metasphinx.com/zh/showcase/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,6 +27,24 @@
         <author>endrhythmATgmail.com (刘贯奎)</author>
         <atom:modified>Wed, 14 Jan 2026 21:04:11 +0900</atom:modified>
         <guid>https://www.metasphinx.com/zh/showcase/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/</guid>
+        <description></description>
+        
+        <dc:creator>刘贯奎</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>醉舞经阁半卷书</title>
+        <link>https://www.metasphinx.com/zh/showcase/%E9%86%89%E8%88%9E%E7%BB%8F%E9%98%81%E5%8D%8A%E5%8D%B7%E4%B9%A6/</link>
+        <pubDate>Wed, 14 Jan 2026 21:04:11 +0900</pubDate>
+        <author>endrhythmATgmail.com (刘贯奎)</author>
+        <atom:modified>Wed, 14 Jan 2026 21:04:11 +0900</atom:modified>
+        <guid>https://www.metasphinx.com/zh/showcase/%E9%86%89%E8%88%9E%E7%BB%8F%E9%98%81%E5%8D%8A%E5%8D%B7%E4%B9%A6/</guid>
         <description></description>
         
         <dc:creator>刘贯奎</dc:creator>
