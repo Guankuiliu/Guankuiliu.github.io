@@ -23,7 +23,7 @@
     <loc>https://www.metasphinx.com/showcase/papercode/deepbqsdm/</loc>
   </url><url>
     <loc>https://www.metasphinx.com/</loc>
-    <lastmod>2026-01-07T21:13:42+09:00</lastmod>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -35,11 +35,11 @@
                 href="https://www.metasphinx.com/"
                 />
   </url><url>
-    <loc>https://www.metasphinx.com/publication/article/2025_deep_quantile_regression_for_growth_and_maturation_reaction_norms/</loc>
-    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+    <loc>https://www.metasphinx.com/publication/article/2026_a-multi-task_deep_learning_framework_for_accurate_classification_of_fish_species_and_habitat_provenance_from_otoliths/</loc>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/publication/</loc>
-    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -50,6 +50,9 @@
                 hreflang="en"
                 href="https://www.metasphinx.com/publication/"
                 />
+  </url><url>
+    <loc>https://www.metasphinx.com/publication/article/2025_deep_quantile_regression_for_growth_and_maturation_reaction_norms/</loc>
+    <lastmod>2025-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/blogs/</loc>
     <lastmod>2025-03-15T21:00:06+09:00</lastmod>
