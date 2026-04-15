@@ -2,26 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.metasphinx.com/zh/showcase/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/20260414_%E7%82%9D%E7%82%92%E5%A4%A7%E7%99%BD%E8%8F%9C/</loc>
+    <loc>https://www.metasphinx.com/zh/cook/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/20260414_%E7%82%9D%E7%82%92%E5%A4%A7%E7%99%BD%E8%8F%9C/</loc>
     <lastmod>2026-04-14T21:13:42+09:00</lastmod>
   </url><url>
-    <loc>https://www.metasphinx.com/zh/showcase/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/20251219_%E5%9C%9F%E8%B1%86%E7%83%A7%E7%89%9B%E8%82%89/</loc>
+    <loc>https://www.metasphinx.com/zh/cook/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/20251219_%E5%9C%9F%E8%B1%86%E7%83%A7%E7%89%9B%E8%82%89/</loc>
     <lastmod>2025-12-19T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/gallery/%E7%BB%98%E7%94%BB/</loc>
     <lastmod>2020-12-12T10:20:16+09:00</lastmod>
   </url><url>
-    <loc>https://www.metasphinx.com/zh/showcase/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/20260131_%E7%89%9B%E8%82%89%E7%82%92%E8%8A%A6%E7%AC%8B/</loc>
+    <loc>https://www.metasphinx.com/zh/cook/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/20260131_%E7%89%9B%E8%82%89%E7%82%92%E8%8A%A6%E7%AC%8B/</loc>
     <lastmod>2026-01-31T21:13:42+09:00</lastmod>
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/showcase/%E9%86%89%E8%88%9E%E7%BB%8F%E9%98%81%E5%8D%8A%E5%8D%B7%E4%B9%A6/202602_%E5%8D%9A%E5%AD%A6%E8%80%85%E4%B8%8E%E4%BB%96%E4%BB%AC%E7%9A%84%E6%97%B6%E4%BB%A3/</loc>
-    <lastmod>2026-02-28T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/showcase/%E9%86%89%E8%88%9E%E7%BB%8F%E9%98%81%E5%8D%8A%E5%8D%B7%E4%B9%A6/202602_%E9%81%A5%E8%BF%9C%E7%9A%84%E6%95%91%E4%B8%96%E4%B8%BB/</loc>
     <lastmod>2026-02-28T21:13:42+09:00</lastmod>
   </url><url>
+    <loc>https://www.metasphinx.com/zh/showcase/%E4%B8%80%E6%9D%AF%E7%BA%A2%E9%85%92%E9%85%8D%E7%94%B5%E5%BD%B1/202604_%E7%BE%8E%E5%9B%BD%E5%BE%80%E4%BA%8B/</loc>
+    <lastmod>2026-04-15T21:13:42+09:00</lastmod>
+  </url><url>
+    <loc>https://www.metasphinx.com/zh/showcase/%E9%86%89%E8%88%9E%E7%BB%8F%E9%98%81%E5%8D%8A%E5%8D%B7%E4%B9%A6/202602_%E5%8D%9A%E5%AD%A6%E8%80%85%E4%B8%8E%E4%BB%96%E4%BB%AC%E7%9A%84%E6%97%B6%E4%BB%A3/</loc>
+    <lastmod>2026-04-05T21:13:42+09:00</lastmod>
+  </url><url>
     <loc>https://www.metasphinx.com/zh/</loc>
-    <lastmod>2026-04-14T21:13:42+09:00</lastmod>
+    <lastmod>2026-04-15T21:13:42+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,7 +36,10 @@
                 href="https://www.metasphinx.com/zh/"
                 />
   </url><url>
-    <loc>https://www.metasphinx.com/zh/showcase/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/</loc>
+    <loc>https://www.metasphinx.com/zh/showcase/%E4%B8%80%E6%9D%AF%E7%BA%A2%E9%85%92%E9%85%8D%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2026-01-14T21:04:11+09:00</lastmod>
+  </url><url>
+    <loc>https://www.metasphinx.com/zh/cook/%E6%B7%B1%E5%A4%9C%E9%A3%9F%E5%A0%82/</loc>
     <lastmod>2026-01-14T21:04:11+09:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/showcase/%E9%86%89%E8%88%9E%E7%BB%8F%E9%98%81%E5%8D%8A%E5%8D%B7%E4%B9%A6/</loc>
@@ -51,6 +57,9 @@
                 hreflang="zh"
                 href="https://www.metasphinx.com/zh/showcase/"
                 />
+  </url><url>
+    <loc>https://www.metasphinx.com/zh/cook/</loc>
+    <lastmod>2026-01-01T15:43:38+09:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/gallery/</loc>
     <lastmod>2025-06-22T10:20:16+09:00</lastmod>
