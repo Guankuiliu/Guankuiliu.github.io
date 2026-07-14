@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bayes on </title>
+    <link>https://www.metasphinx.com/zh/tags/bayes/</link>
+    <description>Recent content in Bayes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>endrhythmATgmail.com (刘贯奎)</managingEditor>
+    <webMaster>endrhythmATgmail.com (刘贯奎)</webMaster>
+    <copyright>©2026, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.metasphinx.com/zh/tags/bayes/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>概率图模型-背景介绍</title>
+        <link>https://www.metasphinx.com/zh/posts/2026/2026-07-14-pgm_background/</link>
+        <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+        <author>endrhythmATgmail.com (刘贯奎)</author>
+        <atom:modified>Tue, 14 Jul 2026 00:00:00 +0000</atom:modified>
+        <guid>https://www.metasphinx.com/zh/posts/2026/2026-07-14-pgm_background/</guid>
+        <description>概率图模型：背景与整体框架 概率图模型（Probabilistic Graphical Models, PGM）可以理解为两件事的结合：一方面，它是用概率分布描述不确定性的概率</description>
+        
+        <dc:creator>Guankui</dc:creator>
+        <media:content url="https://www.metasphinx.com/images/thubnail/20260714_PGM_background.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Bayes</category>
+            
+          
+        
+        
+          
+            
+              <category>ML</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

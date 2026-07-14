@@ -27,7 +27,7 @@
     <lastmod>2026-04-05T21:13:42+09:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/</loc>
-    <lastmod>2026-05-02T21:13:42+09:00</lastmod>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,6 +38,44 @@
                 hreflang="zh"
                 href="https://www.metasphinx.com/zh/"
                 />
+  </url><url>
+    <loc>https://www.metasphinx.com/zh/tags/bayes/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.metasphinx.com/zh/categories/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.metasphinx.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.metasphinx.com/zh/categories/"
+                />
+  </url><url>
+    <loc>https://www.metasphinx.com/zh/categories/ml/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.metasphinx.com/zh/posts/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.metasphinx.com/zh/tags/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.metasphinx.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.metasphinx.com/zh/tags/"
+                />
+  </url><url>
+    <loc>https://www.metasphinx.com/zh/posts/2026/2026-07-14-pgm_background/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/showcase/%E4%B8%80%E6%9D%AF%E7%BA%A2%E9%85%92%E9%85%8D%E7%94%B5%E5%BD%B1/</loc>
     <lastmod>2026-01-14T21:04:11+09:00</lastmod>
@@ -80,23 +118,7 @@
     <loc>https://www.metasphinx.com/zh/gallery/%E6%91%84%E5%BD%B1/</loc>
     <lastmod>2025-06-22T10:20:16+09:00</lastmod>
   </url><url>
-    <loc>https://www.metasphinx.com/zh/categories/</loc>
-    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/categories/"
-                />
-  </url><url>
     <loc>https://www.metasphinx.com/zh/categories/fishery/</loc>
-    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/posts/</loc>
     <lastmod>2023-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/tags/python/</loc>
@@ -110,19 +132,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.metasphinx.com/zh/tags/python/"
-                />
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/tags/</loc>
-    <lastmod>2023-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.metasphinx.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.metasphinx.com/zh/tags/"
                 />
   </url><url>
     <loc>https://www.metasphinx.com/zh/categories/vis/</loc>
@@ -171,9 +180,6 @@
   </url><url>
     <loc>https://www.metasphinx.com/zh/booknote/</loc>
     <lastmod>2022-10-10T18:03:26+08:00</lastmod>
-  </url><url>
-    <loc>https://www.metasphinx.com/zh/categories/ml/</loc>
-    <lastmod>2021-09-24T18:03:26+08:00</lastmod>
   </url><url>
     <loc>https://www.metasphinx.com/zh/tags/r/</loc>
     <lastmod>2021-09-24T18:03:26+08:00</lastmod>

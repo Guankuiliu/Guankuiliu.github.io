@@ -14,11 +14,41 @@
     <managingEditor>endrhythmATgmail.com (刘贯奎)</managingEditor>
     <webMaster>endrhythmATgmail.com (刘贯奎)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://www.metasphinx.com/zh/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>概率图模型-背景介绍</title>
+        <link>https://www.metasphinx.com/zh/posts/2026/2026-07-14-pgm_background/</link>
+        <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+        <author>endrhythmATgmail.com (刘贯奎)</author>
+        <atom:modified>Tue, 14 Jul 2026 00:00:00 +0000</atom:modified>
+        <guid>https://www.metasphinx.com/zh/posts/2026/2026-07-14-pgm_background/</guid>
+        <description>概率图模型：背景与整体框架 概率图模型（Probabilistic Graphical Models, PGM）可以理解为两件事的结合：一方面，它是用概率分布描述不确定性的概率</description>
+        
+        <dc:creator>Guankui</dc:creator>
+        <media:content url="https://www.metasphinx.com/images/thubnail/20260714_PGM_background.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Bayes</category>
+            
+          
+        
+        
+          
+            
+              <category>ML</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>拖网选择性曲线</title>

@@ -14,11 +14,29 @@
     <managingEditor>endrhythmATgmail.com (刘贯奎)</managingEditor>
     <webMaster>endrhythmATgmail.com (刘贯奎)</webMaster>
     <copyright>©2026, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://www.metasphinx.com/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>ML</title>
+        <link>https://www.metasphinx.com/zh/categories/ml/</link>
+        <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+        <author>endrhythmATgmail.com (刘贯奎)</author>
+        
+        <guid>https://www.metasphinx.com/zh/categories/ml/</guid>
+        <description></description>
+        
+        <dc:creator>刘贯奎</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Fishery</title>
@@ -45,24 +63,6 @@
         <author>endrhythmATgmail.com (刘贯奎)</author>
         
         <guid>https://www.metasphinx.com/zh/categories/vis/</guid>
-        <description></description>
-        
-        <dc:creator>刘贯奎</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>ML</title>
-        <link>https://www.metasphinx.com/zh/categories/ml/</link>
-        <pubDate>Fri, 24 Sep 2021 18:03:26 +0800</pubDate>
-        <author>endrhythmATgmail.com (刘贯奎)</author>
-        
-        <guid>https://www.metasphinx.com/zh/categories/ml/</guid>
         <description></description>
         
         <dc:creator>刘贯奎</dc:creator>
